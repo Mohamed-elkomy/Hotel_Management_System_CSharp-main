@@ -42,4 +42,4 @@ This project is licensed under the MIT License - see the [LICENSE](GNU GENERAL P
 
 ---
 
-Created by [Mohamed Magdy Mohamed ELkomy] - You can find more information about me on [My GitHub Profile]([https://github.com/Mohamed-elkomy])
+Created by [Mohamed Magdy Mohamed ELkomy] - You can find more information about me on([https://github.com/Mohamed-elkomy])
